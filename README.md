@@ -7,6 +7,12 @@ Content creators often face challenges in optimizing their content for discovera
 
 https://github.com/Ajitesh72/TrendLens/assets/95878363/be65763b-9030-42ad-80c9-d35a164144f5
 
+
+
+https://github.com/Ajitesh72/TrendLens/assets/95878363/4992c143-6b00-462d-b6d2-ca50bf62db0c
+
+
+
 Features🚀
 
 Media Caption Generation: Automatically generate captions for social media posts using content from videos and images.

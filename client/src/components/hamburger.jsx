@@ -121,7 +121,7 @@ const HamburgerMenu = ({ isMenuOpen, handleToggleMenu, handleMenuOptions }) => {
                   />
                 </svg>
               </div>
-              <div className="text-lg md:text-xl">Json to Code</div>
+              <div className="text-lg md:text-xl">Media Caption Generation</div>
             </div>
 
             {/* Image to Code */}
@@ -148,7 +148,7 @@ const HamburgerMenu = ({ isMenuOpen, handleToggleMenu, handleMenuOptions }) => {
                   />
                 </svg>
               </div>
-              <div className="text-lg md:text-xl">Image to Code</div>
+              <div className="text-lg md:text-xl">Image to Trending Tags</div>
             </div>
             {/* Text to Code */}
             <div
@@ -174,7 +174,7 @@ const HamburgerMenu = ({ isMenuOpen, handleToggleMenu, handleMenuOptions }) => {
                   />
                 </svg>
               </div>
-              <div className="text-lg md:text-xl">Text to Code</div>
+              <div className="text-lg md:text-xl">Text to Trending Tags</div>
             </div>
 
             {/* SQL QUERY GENERATOR */}
@@ -201,7 +201,7 @@ const HamburgerMenu = ({ isMenuOpen, handleToggleMenu, handleMenuOptions }) => {
                   />
                 </svg>
               </div>
-              <div className="text-lg md:text-xl">Sql Generator</div>
+              <div className="text-lg md:text-xl">Backlash Possiblity</div>
             </div>
 
             {/* Appearance */}
@@ -218,7 +218,7 @@ const HamburgerMenu = ({ isMenuOpen, handleToggleMenu, handleMenuOptions }) => {
                   />
                 </svg>
               </div>
-              <div className="text-lg md:text-xl">Appearance</div>
+              <div className="text-lg md:text-xl">Creator Collaboration</div>
             </div>
 
             {/* Profile */}
